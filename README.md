@@ -1,0 +1,1 @@
+Cisco-like dot ping
